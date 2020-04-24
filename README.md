@@ -4,6 +4,8 @@
 
 **[Detalhes do desafio](https://github.com/Rocketseat/bootcamp-gostack-desafio-06)**
 
-## Resultado do desafio
+<h2 align="center">Resultado do desafio</h2>
 
-<img src="./.github/home.jpg" width="250" height="400"> <img src="./.github/repository.jpg" width="250" height="400"> <img src="./.github/user.jpg" width="250" height="400">
+<p align="center">
+  <img src="./.github/home.jpg" width="250" height="400"> <img src="./.github/repository.jpg" width="250" height="400"> <img src="./.github/user.jpg" width="250" height="400">
+</p>
