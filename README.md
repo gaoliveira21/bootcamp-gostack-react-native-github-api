@@ -6,4 +6,4 @@
 
 ## Resultado do desafio
 
-<img src="./.github/home.jpg" width="200" height="400"> <img src="./.github/repository.jpg" width="200" height="400"> <img src="./.github/user.jpg" width="200" height="400">
+<img src="./.github/home.jpg" width="300" height="400"> <img src="./.github/repository.jpg" width="300" height="400"> <img src="./.github/user.jpg" width="300" height="400">
