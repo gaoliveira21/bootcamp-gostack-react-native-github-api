@@ -1,8 +1,8 @@
-<h1 align="center">Bootcamp Gostack React Native</h1>
+<h1 align="center">Bootcamp Gostack React Native :rocket:</h1>
 
 <h2 align="center">Desafio 6: Primeiro projeto com React Native</h2>
 
-<p align="center">**[Detalhes do desafio](https://github.com/Rocketseat/bootcamp-gostack-desafio-06)** :rocket:</p>
+<p align="center"> <a href="https://github.com/Rocketseat/bootcamp-gostack-desafio-06">Detalhes do desafio</a></p>
 
 <h2 align="center">Resultado do desafio</h2>
 
